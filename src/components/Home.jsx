@@ -11,12 +11,14 @@ const Home = () => {
           ELI KHOZA
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Software Developer.
+          I'm a Software Developer | Full Stack Developer | Backend Developer | Frontend Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a Software Development specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently, I’m focused on
-          building responsive full-stack web applications.
+          I’m a Full-Stack Software Developer specializing in building responsive, scalable, 
+          and user-focused web applications. I work across backend and frontend development, 
+          building robust APIs and business logic with C# and .NET, while creating intuitive 
+          and responsive user interfaces with Angular and JavaScript. I’m passionate about writing 
+          clean, maintainable code and turning complex problems into reliable digital solutions.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
