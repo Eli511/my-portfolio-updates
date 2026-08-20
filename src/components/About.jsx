@@ -17,15 +17,10 @@ const About = () => {
               <p>Hi. I'm ELI KHOZA, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am an aspiring Software Engineer. A self motivated and critical thinker in 
-                Software development. Over the past three years, I have developed an extensive 
-                academic knowledge of JavaScript, C++ , PL/SQl, PHP, JAVA, Open Source, Web Development 
-                and Project Management. 
-                Why You What To Be A Developer At SovTech? 
-                I would like to be a Software Developer at SovTech because I believe 
-                I am a good fit for the Graduate program. I am will to learn need things in
-                a short space of time, in order to complete Task in workplace. I have also looked at SovTech 
-                website it is a great company that helps Big and Small companies with Software Development.
+              <p>I am Software Engineer. A self motivated and critical thinker in
+                Software development. Over the past three years, I have developed
+                an extensive academic knowledge of JavaScript, C++ , PL/SQl, PHP,
+                JAVA, Open Source, Web Development and Project Management.
                 </p>  
             
                
