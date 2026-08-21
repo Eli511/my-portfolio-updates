@@ -12,6 +12,7 @@ import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import SQL from '../assets/sql.png';
 import NET from '../assets/net.png';
+import POSTMAN from '../assets/postman.png';
 
 const Skills = () => {
   return (
@@ -67,6 +68,10 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={NET} alt="HTML icon" />
                   <p className='my-4'>.Net</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={POSTMAN} alt="HTML icon" />
+                  <p className='my-4'>Postman</p>
               </div>
           </div>
       </div>
